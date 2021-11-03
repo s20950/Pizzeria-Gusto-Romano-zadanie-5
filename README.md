@@ -3,3 +3,5 @@
 # Initial project structure
 
 # Home page
+
+# UX/UI
