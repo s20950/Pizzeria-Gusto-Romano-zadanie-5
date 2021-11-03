@@ -5,5 +5,3 @@
 # Home page
 
 # UX/UI
-
-# Preparing the low-fi prototypes
