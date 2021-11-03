@@ -1,2 +1,7 @@
 # Pizzeria-Gusto-Romano-zadanie-5
-UX/UI
+
+# Initial project structure
+
+# Home page
+
+# UX/UI
